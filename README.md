@@ -1,5 +1,5 @@
 ![logo](https://github.com/suparnobanerjee/suparnobanerjee/blob/main/bnner.png)
-<h2 align="center">Hi 👋😊</h2>
+<h1 align="center">Hi 👋, thanks for stopping by.</h1>
 <!-- <h3 align="center">Thanks for coming by 😊</h3> -->
 
 <img align="right" alt="Coder GIF" height=400 width=400 src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/6fr.gif" />
