@@ -1,3 +1,4 @@
+![logo](https://github.com/suparnobanerjee/suparnobanerjee/blob/main/bnner.png)
 <h1 align="center">Hi 👋, I'm Suparno Banerjee</h1>
 <!-- <h3 align="center">Thanks for coming by 😊</h3> -->
 
