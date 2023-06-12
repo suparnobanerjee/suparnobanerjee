@@ -1,14 +1,13 @@
 ![logo](https://github.com/suparnobanerjee/suparnobanerjee/blob/main/bnner.png)
 <h1 align="center">Hi 👋, I'm Suparno Banerjee</h1>
 <!-- <h3 align="center">Thanks for coming by 😊</h3> -->
-
+<br>
 <img align="right" alt="Coder GIF" height=390 width=400 src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/6fr.gif" />
 
 
 <!-- <p align="left"> <a href="https://twitter.com/supar_nosocial" target="blank"><img src="https://img.shields.io/twitter/follow/supar_nosocial?logo=twitter&style=for-the-badge" alt="supar_nosocial" /></a> </p> -->
 
 <!-- - 📫 How to reach me **https://linktr.ee/suparnobanerjee** -->
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/supar_nosocial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supar_nosocial" height="30" width="40" /></a>
