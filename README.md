@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/suparnobanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suparnobanerjee" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/462a7fc1-35a4-4736-8bc5-d0793d01ff93" target="blank"><img align="center" src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/logos/codestudio.png" alt="@suparnobanerjee" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@suparnobanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@suparnobanerjee" height="30" width="40" /></a>
-<a href="https://lichess.org/@/suparno011" target="blank"><img align="center" src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/logos/lichess.svg" alt="@suparnobanerjee" height="30" width="40" /></a>
+<a href="https://lichess.org/@/sb1729/perf/rapid" target="blank"><img align="center" src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/logos/lichess.svg" alt="@suparnobanerjee" height="30" width="40" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
