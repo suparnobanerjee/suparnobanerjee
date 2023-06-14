@@ -37,7 +37,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p> -->
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
 
-
+<br>
 <p><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=suparnobanerjee&show_icons=true&locale=en&layout=compact" alt="suparnobanerjee" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suparnobanerjee&" alt="suparnobanerjee" /></p> -->
