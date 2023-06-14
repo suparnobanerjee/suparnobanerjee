@@ -9,7 +9,7 @@
 <!-- - 📫 How to reach me **https://linktr.ee/suparnobanerjee** -->
 <h3 align="left">Profile links:</h3>
 <p align="left">
-<a href="https://twitter.com/supar_nosocial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supar_nosocial" height="30" width="40" /></a>
+<a href="https://twitter.com/suparno_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suparno_1729" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suparno1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suparno1729" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/sup4rno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sup4rno" height="30" width="40" /></a>
 <a href="https://instagram.com/quacknostrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quacknostrum" height="30" width="40" /></a> -->
@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/suparnobanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suparnobanerjee" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/462a7fc1-35a4-4736-8bc5-d0793d01ff93" target="blank"><img align="center" src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/logos/codestudio.png" alt="@suparnobanerjee" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@suparnobanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@suparnobanerjee" height="30" width="40" /></a> -->
-<a href="https://lichess.org/@/sb1729/perf/rapid" target="blank"><img align="center" src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/logos/lichess.svg" alt="@suparnobanerjee" height="30" width="40" /></a>
+<a href="https://lichess.org/@/sb1729" target="blank"><img align="center" src="https://github.com/suparnobanerjee/suparnobanerjee/blob/main/logos/lichess.svg" alt="@suparnobanerjee" height="30" width="40" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
