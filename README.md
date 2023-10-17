@@ -2,7 +2,7 @@
 
 🌐 a fervent supporter of decentralized, free and open internet
 
-🚀 democratizing AI via open-source tools, empowering accessibility and innovation
+🚀 democratizing AI via open-sourcing tools
 
 ❤️ feel free to connect and discuss ideas
 
