@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Suparno
 
-🌐 dedicated to a decentralized, free and open internet."
+🌐 dedicated to a decentralized, free and open internet"
 
 ❤️ let's connect and share ideas
 
