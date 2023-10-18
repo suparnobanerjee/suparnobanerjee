@@ -1,4 +1,4 @@
-### Hi, I'm Suparno
+### Hi, I'm Suparno👋
 
 🌐 democratizing AI via open-sourcing tools
 
