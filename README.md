@@ -1,6 +1,6 @@
 ### Hi 👋,
 
-🌐 I'm dedicated to the ideals of a decentralized, free and open internet
+🌐 democratizing AI via open-sourcing tools
 
 ❤️ let's connect and brainstorm ideas
 
