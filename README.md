@@ -1,8 +1,6 @@
-### Hi 👋,
+### Hi 👋, I'm Suparno
 
-🌐 I'm passionate about a decentralized, free and open internet
-
-<!--🚀 democratizing AI via open-sourcing tools-->
+🌐 dedicated to a decentralized, free and open internet."
 
 ❤️ let's connect and share ideas
 
